@@ -1,0 +1,17 @@
+
+.header{
+  width: 100%;
+  background-color: rgb(66, 166, 212);
+  font-size: larger;
+  font-weight: 500;
+  color: #fff;
+  padding: 1%;
+}
+a{
+  text-decoration: none !important;
+  color: white !important;
+  padding: 2px;
+}
+
+
+
